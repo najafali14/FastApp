@@ -1,5 +1,4 @@
-# FastApp
-# FastAPI CMS
+# FastCMS
 A headless CMS built with FastAPI for managing dynamic content like products, blog posts, and pages. This CMS is designed to be publicly accessible, making it easy to integrate with any frontend application.
 # Features
 Dynamic Content Types: Manage different types of content (e.g., products, blog posts, pages).
@@ -22,9 +21,9 @@ Uvicorn (for running the server)
 
 # Installation
 Clone the repository:
+https://github.com/najafali14/FastCMS.git
 
-git clone https://github.com/your-username/fastapi-cms.git
-cd fastapi-cms
+cd fastcms
 
 # Install dependencies:
 
